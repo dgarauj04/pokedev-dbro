@@ -15,7 +15,7 @@ listaSelecaoPokedevs.forEach(pokedev => {
     //6
 ativarPokedevSelecionadoNaListagem(idPokedevSelecionado);
     
-	})
+	});
 });
 
 //6
